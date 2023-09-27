@@ -4,7 +4,7 @@
       "id": 1,
       "title": "جنگلی",
       "author": "۳۳ اقامتگاه",
-      "src": "./public/img/imgs/170/98.jpg",
+      "src": "/img/imgs/98.jpg",
       "star": "8.9",
       "path": "/Jungle"
     },
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "ویلا های ییلاقی",
-      "src": "./src/img/98.jpg",
+      "src": "/vite-project/public/img/170/98.jpg",
       "author": "۰ اقامتگاه",
       "star": "7.9",
       "path": "/"
